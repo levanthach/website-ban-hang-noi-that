@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//noithathiendai.xyz/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://noithathiendai.xyz/blocks/footer-about-us/</loc>
+		<lastmod>2020-12-08T22:54:36+07:00</lastmod>
+		<image:image>
+			<image:loc>https://noithathiendai.xyz/wp-content/uploads/2020/11/logo-noi-that-moc-style-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://noithathiendai.xyz/blocks/home-menu-trai/</loc>
+		<lastmod>2020-11-02T00:10:30+07:00</lastmod>
+	</url>
+	<url>
+		<loc>https://noithathiendai.xyz/blocks/features-overview/</loc>
+		<lastmod>2016-09-04T22:57:34+07:00</lastmod>
+	</url>
+	<url>
+		<loc>https://noithathiendai.xyz/blocks/demos/</loc>
+		<lastmod>2016-09-03T23:24:28+07:00</lastmod>
+	</url>
+	<url>
+		<loc>https://noithathiendai.xyz/blocks/footer-newsletter-signup/</loc>
+		<lastmod>2016-08-25T20:42:06+07:00</lastmod>
+	</url>
+	<url>
+		<loc>https://noithathiendai.xyz/blocks/shop-category-slider/</loc>
+		<lastmod>2016-08-18T18:43:28+07:00</lastmod>
+	</url>
+	<url>
+		<loc>https://noithathiendai.xyz/blocks/shop-header/</loc>
+		<lastmod>2016-08-18T17:42:40+07:00</lastmod>
+	</url>
+	<url>
+		<loc>https://noithathiendai.xyz/blocks/blog-header/</loc>
+		<lastmod>2016-08-18T14:04:50+07:00</lastmod>
+	</url>
+	<url>
+		<loc>https://noithathiendai.xyz/blocks/elements-overview/</loc>
+		<lastmod>2016-01-25T18:39:27+07:00</lastmod>
+	</url>
+</urlset>

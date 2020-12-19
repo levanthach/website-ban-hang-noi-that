@@ -1,0 +1,111 @@
+Dec 3 16:39:26 ==DUPLICATOR INSTALLER BOOTSTRAP v3.7.3.1==
+Dec 3 16:39:26 ----------------------------------------------------
+Dec 3 16:39:26 Installer bootstrap start
+Dec 3 16:39:26 Using archive /home/goodheal/noithathiendai.xyz/20201129_noithatgiaxuong_dd31cadd79261abd9808_20201129091039_archive.zip
+Dec 3 16:39:26 Going to overwrite installer directory since either in overwrite mode or installer directory doesn't exist
+Dec 3 16:39:26 Ready to extract the installer
+Dec 3 16:39:26 ZipArchive exists so using that
+Dec 3 16:39:26 Successfully opened /home/goodheal/noithathiendai.xyz/20201129_noithatgiaxuong_dd31cadd79261abd9808_20201129091039_archive.zip
+Dec 3 16:39:26 Extracting all files from archive within dup-installer
+Dec 3 16:39:26 Success: dup-installer/api/class.api.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/api/class.cpnl.base.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/api/class.cpnl.ctrl.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/api/index.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/api/router.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/font-awesome/css/font-awesome.min.css >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/font-awesome/css/index.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/font-awesome/fonts/fontawesome-webfont.eot >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/font-awesome/fonts/fontawesome-webfont.ttf >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/font-awesome/fonts/fontawesome-webfont.woff >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/font-awesome/fonts/fontawesome-webfont.woff2 >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/font-awesome/fonts/FontAwesome.otf >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/font-awesome/fonts/index.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/font-awesome/index.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/images/index.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/images/ui-bg_glass_55_fbf9ee_1x400.png >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/images/ui-bg_glass_65_ffffff_1x400.png >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/images/ui-bg_glass_75_dadada_1x400.png >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/images/ui-bg_glass_75_e6e6e6_1x400.png >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/images/ui-bg_glass_95_fef1ec_1x400.png >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/images/ui-bg_highlight-soft_75_cccccc_1x100.png >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/images/ui-icons_222222_256x240.png >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/images/ui-icons_2e83ff_256x240.png >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/images/ui-icons_454545_256x240.png >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/images/ui-icons_888888_256x240.png >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/images/ui-icons_cd0a0a_256x240.png >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/inc.css.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/inc.js.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/inc.libs.css.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/inc.libs.js.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/assets/index.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/classes/class.crypt.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/classes/class.db.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/classes/class.engine.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/classes/class.http.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/classes/class.installer.state.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/classes/class.logging.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/classes/class.server.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/classes/config/class.archive.config.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/classes/config/class.conf.srv.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/classes/config/class.conf.wp.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/classes/config/class.constants.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/classes/config/index.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/classes/index.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/classes/utilities/class.u.multisite.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/classes/utilities/class.u.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/classes/utilities/index.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/ctrls/ctrl.base.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/ctrls/ctrl.s1.extraction.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/ctrls/ctrl.s1.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/ctrls/ctrl.s2.base.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/ctrls/ctrl.s2.dbinstall.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/ctrls/ctrl.s2.dbtest.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/ctrls/ctrl.s3.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/ctrls/index.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/index.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/main.installer.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/views/index.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/views/view.api.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/views/view.help.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/views/view.init1.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/views/view.s1.base.deletesite.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/views/view.s1.base.movesite.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/views/view.s1.base.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/views/view.s1.terms.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/views/view.s2.base.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/views/view.s2.basic.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/views/view.s2.cpnl.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/views/view.s2.dbtest.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/views/view.s3.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/views/view.s4.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/archive.cfg >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/lib/snaplib/class.snaplib.logger.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/lib/snaplib/class.snaplib.u.io.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/lib/snaplib/class.snaplib.u.net.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/lib/snaplib/class.snaplib.u.os.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/lib/snaplib/class.snaplib.u.stream.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/lib/snaplib/class.snaplib.u.string.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/lib/snaplib/class.snaplib.u.ui.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/lib/snaplib/class.snaplib.u.url.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/lib/snaplib/class.snaplib.u.util.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/lib/snaplib/index.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/lib/snaplib/snaplib.all.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/lib/fileops/class.fileops.constants.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/lib/fileops/class.fileops.state.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/lib/fileops/class.fileops.u.delete.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/lib/fileops/class.fileops.u.move.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/lib/fileops/fileops.ppp >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Success: dup-installer/lib/fileops/index.php >>> /home/goodheal/noithathiendai.xyz
+Dec 3 16:39:26 Successfully closed /home/goodheal/noithathiendai.xyz/20201129_noithatgiaxuong_dd31cadd79261abd9808_20201129091039_archive.zip
+Dec 3 16:39:26 Successfully extracted with ZipArchive
+Dec 3 16:39:26 Set permissions of /home/goodheal/noithathiendai.xyz/dup-installer to 755<br/>
+Dec 3 16:39:26 Set permissions of /home/goodheal/noithathiendai.xyz/dup-installer/api to 755<br/>
+Dec 3 16:39:26 Set permissions of /home/goodheal/noithathiendai.xyz/dup-installer/assets to 755<br/>
+Dec 3 16:39:26 Set permissions of /home/goodheal/noithathiendai.xyz/dup-installer/classes to 755<br/>
+Dec 3 16:39:26 Set permissions of /home/goodheal/noithathiendai.xyz/dup-installer/ctrls to 755<br/>
+Dec 3 16:39:26 Set permissions of /home/goodheal/noithathiendai.xyz/dup-installer/lib to 755<br/>
+Dec 3 16:39:26 Set permissions of /home/goodheal/noithathiendai.xyz/dup-installer/views to 755<br/>
+Dec 3 16:39:26 Set permissions of /home/goodheal/noithathiendai.xyz/dup-installer/archive.cfg to 644<br/>
+Dec 3 16:39:26 Set permissions of /home/goodheal/noithathiendai.xyz/dup-installer/index.php to 644<br/>
+Dec 3 16:39:26 Set permissions of /home/goodheal/noithathiendai.xyz/dup-installer/main.installer.php to 644<br/>
+Dec 3 16:39:26 No detected errors so redirecting to the main installer. Main Installer URI = https://noithathiendai.xyz/dup-installer/main.installer.php?archive=%2Fhome%2Fgoodheal%2Fnoithathiendai.xyz%2F20201129_noithatgiaxuong_dd31cadd79261abd9808_20201129091039_archive.zip&bootloader=installer.php&

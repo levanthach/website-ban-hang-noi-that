@@ -1,0 +1,120 @@
+.img-hover-trans .img-inner:before{
+    border-color: #000 transparent transparent;
+    border-style: solid;
+    border-width: 0;
+    content: "";
+    height: 0;
+    left: 0;
+    opacity: 0.2;
+    position: absolute;
+    top: 0;
+    transition: all 0.5s ease-in-out;
+    width: 0;
+}
+.img-hover-trans .img-inner:after{
+    border-color: transparent transparent #000;
+    border-style: solid;
+    border-width: 0;
+    bottom: 0;
+    content: "";
+    height: 0;
+    opacity: 0.2;
+    position: absolute;
+    right: 0;
+    transition: all 0.5s ease-in-out;
+    width: 0;
+}
+.img-hover-trans .img-inner:hover:before {
+    border-width: 1150px 680px 0 0;
+    transition: all 0.3s ease-in-out;
+}
+
+.img-hover-trans .img-inner:hover:after {
+    border-width: 0 0 1150px 680px;
+    transition: all 0.3s ease-in-out;
+}
+
+
+.slider-banner .slider-nav-dots-dashes-spaced {
+    padding: 0!important;
+}
+
+.slider-nav-circle .flickity-prev-next-button svg, .slider-nav-circle .flickity-prev-next-button .arrow {
+    background: #fff;
+    border-radius: unset!important;
+}
+
+.slider-nav-light .flickity-prev-next-button svg, .slider-nav-light .flickity-prev-next-button .arrow {
+    fill: #515151!important;
+}
+
+.slider-nav-light .flickity-page-dots .dot.is-selected {
+    background: #333!important;
+}
+
+.header-title {
+    border-bottom: 1px solid #e1e1e1;
+    margin-bottom: 15px;
+    position: relative;
+    margin-top: 15px;
+}
+
+.modtitle {
+    border-bottom: 1px solid #e1e1e1;
+    margin: 0 0px 2px 0;
+    line-height: 42px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.modtitle span:nth-child(2) {
+    color: #888;
+}
+
+.header-title:after {
+    position: absolute;
+    content: "";
+    width: 100px;
+    height: 3px;
+    background: #3ab54a;
+    bottom: 0px;
+}
+
+.nt-product .col-inner {
+    background: #fff;
+    border: 1px solid #ddd;
+    margin: 0px 0 30px 0;
+    overflow: hidden;
+    position: relative;
+    padding: 10px;
+}
+
+.nt-product .badge-container {
+    margin: 10px!important;
+}
+
+.nt-product .box-text-products .product-title {
+    height: 22px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.nt-product .price-wrapper .price {
+    text-align: center;
+}
+
+.nt-product .price-wrapper .price del .woocommerce-Price-amount bdi {
+    font-size: 12px;
+    font-weight: normal;
+    color: #888;
+}
+
+.nt-product .price-wrapper .price ins .woocommerce-Price-amount bdi {
+    font-weight: 600;
+    color: #f48549;
+    font-size: 18px;
+}

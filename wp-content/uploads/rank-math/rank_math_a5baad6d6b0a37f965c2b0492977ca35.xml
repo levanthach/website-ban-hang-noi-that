@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//noithat.lethach.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://noithat.lethach.com/featured_item/</loc>
+		<lastmod>2016-08-28T16:39:54+07:00</lastmod>
+	</url>
+	<url>
+		<loc>https://noithat.lethach.com/featured_item/lookbook-summer/</loc>
+		<lastmod>2016-08-28T16:39:54+07:00</lastmod>
+	</url>
+	<url>
+		<loc>https://noithat.lethach.com/featured_item/another-print-package/</loc>
+		<lastmod>2016-08-28T16:38:06+07:00</lastmod>
+	</url>
+	<url>
+		<loc>https://noithat.lethach.com/featured_item/fl3-print-package/</loc>
+		<lastmod>2016-08-28T16:36:46+07:00</lastmod>
+	</url>
+	<url>
+		<loc>https://noithat.lethach.com/featured_item/awesome-pencil-poster/</loc>
+		<lastmod>2016-08-28T16:35:26+07:00</lastmod>
+	</url>
+	<url>
+		<loc>https://noithat.lethach.com/featured_item/portfolio-typography/</loc>
+		<lastmod>2016-08-28T16:29:58+07:00</lastmod>
+	</url>
+	<url>
+		<loc>https://noithat.lethach.com/featured_item/flatsome-poster-print/</loc>
+		<lastmod>2016-08-28T16:25:23+07:00</lastmod>
+	</url>
+	<url>
+		<loc>https://noithat.lethach.com/featured_item/magazine/</loc>
+		<lastmod>2016-08-28T16:22:57+07:00</lastmod>
+	</url>
+	<url>
+		<loc>https://noithat.lethach.com/featured_item/flat-t-shirt-company/</loc>
+		<lastmod>2016-08-28T15:57:59+07:00</lastmod>
+	</url>
+</urlset>

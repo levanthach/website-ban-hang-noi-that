@@ -1,0 +1,279 @@
+.img-hover-trans .img-inner:before{
+    border-color: #000 transparent transparent;
+    border-style: solid;
+    border-width: 0;
+    content: "";
+    height: 0;
+    left: 0;
+    opacity: 0.2;
+    position: absolute;
+    top: 0;
+    transition: all 0.5s ease-in-out;
+    width: 0;
+}
+.img-hover-trans .img-inner:after{
+    border-color: transparent transparent #000;
+    border-style: solid;
+    border-width: 0;
+    bottom: 0;
+    content: "";
+    height: 0;
+    opacity: 0.2;
+    position: absolute;
+    right: 0;
+    transition: all 0.5s ease-in-out;
+    width: 0;
+}
+.img-hover-trans .img-inner:hover:before {
+    border-width: 1150px 680px 0 0;
+    transition: all 0.3s ease-in-out;
+}
+
+.img-hover-trans .img-inner:hover:after {
+    border-width: 0 0 1150px 680px;
+    transition: all 0.3s ease-in-out;
+}
+
+
+.slider-banner .slider-nav-dots-dashes-spaced {
+    padding: 0!important;
+}
+
+.slider-banner .slider-nav-circle .flickity-prev-next-button svg, .slider-nav-circle .flickity-prev-next-button .arrow {
+    background: #fff;
+    border-radius: unset!important;
+}
+
+.slider-banner .slider-nav-light .flickity-prev-next-button svg, .slider-nav-light .flickity-prev-next-button .arrow {
+    fill: #515151!important;
+}
+
+.slider-banner .slider-nav-light .flickity-page-dots .dot.is-selected {
+    background: #333!important;
+}
+
+.header-title {
+    border-bottom: 1px solid #e1e1e1;
+    margin-bottom: 15px;
+    position: relative;
+    margin-top: 15px;
+}
+
+.modtitle {
+    border-bottom: 1px solid #e1e1e1;
+    margin: 0 0px 2px 0;
+    line-height: 42px;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.modtitle span:nth-child(2) {
+    color: #888;
+}
+
+.header-title:after {
+    position: absolute;
+    content: "";
+    width: 100px;
+    height: 3px;
+    background: #3ab54a;
+    bottom: 0px;
+}
+
+.nt-product .product-small .col-inner {
+    background: #fff;
+    border: 1px solid #ddd;
+    margin: 0px 0 30px 0;
+    overflow: hidden;
+    position: relative;
+    padding: 10px;
+}
+
+.nt-product .badge-container {
+    margin: 10px!important;
+}
+
+.nt-product .box-text-products .product-title {
+    height: 22px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.nt-product .price-wrapper .price {
+    text-align: center;
+}
+
+.nt-product .price-wrapper .price del .woocommerce-Price-amount bdi {
+    font-size: 12px;
+    font-weight: normal;
+    color: #888;
+}
+
+.nt-product .price-wrapper .price ins .woocommerce-Price-amount bdi {
+    font-weight: 600;
+    color: #f48549;
+    font-size: 18px;
+}
+
+.nt-product .price-wrapper .price .woocommerce-Price-amount bdi {
+    font-weight: 600;
+    color: #f48549;
+    font-size: 18px;
+}
+
+.nt-product .product-small  img {
+    height: 200px;
+}
+
+.nt-product .flickity-prev-next-button, .partner-slider .flickity-prev-next-button{
+    opacity: 1!important;
+}
+
+.nt-product .flickity-prev-next-button svg {
+    background-color: #fff;
+}
+
+.nt-product .flickity-prev-next-button svg:hover {
+    background-color: #3ab54a;
+}
+
+.nt-product .flickity-prev-next-button svg:hover .arrow{
+    fill: #fff!important;
+}
+
+
+.nt-product .flickity-prev-next-button.next, .partner-slider .flickity-prev-next-button.next{
+    transform: unset!important;
+}
+
+.nt-product .flickity-prev-next-button.previous, .partner-slider .flickity-prev-next-button.previous{
+    transform: unset!important;
+}
+
+.nt-product .flickity-prev-next-button.previous {
+    right: 5%!important;
+}
+
+.partner-slider .flickity-prev-next-button.previous{ 
+    right: 3.7%!important;
+}
+
+.nt-product .flickity-prev-next-button.next {
+    left: 95.5%!important;
+}
+
+.partner-slider .flickity-prev-next-button.next { 
+    left: 96.9%!important;
+}
+.nt-product .flickity-prev-next-button {
+    top: -51%!important;
+}
+
+.partner-slider .flickity-prev-next-button {
+    top: -144%!important;
+}
+
+.partner-product .nt-product .flickity-prev-next-button svg .arrow, .partner-slider .flickity-prev-next-button svg .arrow{
+    fill: #fff!important;
+}
+
+.partner-product .nt-product .flickity-prev-next-button svg, .partner-slider .flickity-prev-next-button svg {
+    background-color: #3ab54a;
+}
+
+.widget_product_categories, .widget_recently_viewed_products{
+    border: 1px solid #e6e2e2bd;
+}
+
+.widget_product_categories .widget-title, .widget_recently_viewed_products .widget-title{
+    background: #ff9933;
+    color: #fff;
+    padding: 20px 0;
+    display: block;
+    text-align: center;
+}
+
+.widget_product_categories .product-categories li a{
+    padding: 10px 20px;
+}
+
+.widget_product_categories .is-divider, .widget_recently_viewed_products .is-divider{
+    display: none!important;
+}
+
+
+.nt-product .product-custom-home .box-text-products .product-title {
+    text-align: left!important;
+}
+.nt-product .product-custom-home .price-wrapper .price {
+    text-align: left!important;
+}
+
+.quick-view.quick-view-added {
+    display: none!important;
+}
+
+.img-widget-home {
+    height: 285px!important;
+    object-fit: cover;
+}
+
+#footer {
+    background: url('../img/slider-footer.jpg');
+}
+
+.footer-widgets span.widget-title {
+    font-size: 19px;
+    line-height: 23px;
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #ececec;
+    position: relative;
+    display: block;
+}
+
+#footer .footer-2 .widget-title:before {
+    content: "";
+    left: 0;
+    bottom: -2px;
+    width: 100px;
+    position: absolute;
+    border-bottom: solid 2px #ff9933;
+}
+
+.footer-widgets .is-divider {
+    display: none;
+}
+
+.copyright-footer {
+    color: #333!important;
+}
+
+.title-heading {
+    text-align: center;
+    font-size: 32px;
+    color: #ff9933;
+    margin-top: 35px;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+.title-heading:after {
+    content: "";
+    display: table;
+    clear: both;
+    background: url('../img/line.png');
+    width: 100%;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: bottom;
+    padding-top: 0;
+}

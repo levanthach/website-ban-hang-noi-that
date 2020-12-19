@@ -1,0 +1,252 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 04:39:29
+* VERSION: 3.7.3.1
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PHP:		7.2.34 | SAPI: litespeed
+PHP MEMORY:	5000M | SUHOSIN: disabled
+SERVER:		LiteSpeed
+DOC ROOT:	/home/goodheal/noithathiendai.xyz
+DOC ROOT 755:	true
+LOG FILE 644:	true
+REQUEST URL:	https://noithathiendai.xyz/dup-installer/main.installer.php?archive=%2Fhome%2Fgoodheal%2Fnoithathiendai.xyz%2F20201129_noithatgiaxuong_dd31cadd79261abd9808_20201129091039_archive.zip&bootloader=installer.php&
+SAFE MODE :	0
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME:	20201129_noithatgiaxuong_dd31cadd79261abd9808_20201129091039_archive.zip
+SIZE:	108.52MB
+
+>>> Starting ZipArchive Unzip
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 11188
+    [filename] => /home/goodheal/noithathiendai.xyz/20201129_noithatgiaxuong_dd31cadd79261abd9808_20201129091039_archive.zip
+    [comment] => 
+)
+File timestamp set to Current: 2020-12-03 16:39:51
+<<< ZipArchive Unzip Complete: true
+
+WEB SERVER CONFIGURATION FILE STATUS:
+- .htaccess was reset and a backup made to .htaccess-201203163929.orig.
+- .user.ini file was not reset or backed up.
+- web.config file was not reset or backed up.
+
+STEP-1 COMPLETE @ 04:39:51 - RUNTIME: 21.6124 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR PRO INSTALL-LOG
+* STEP-2 START @ 04:40:49
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+
+WARNING: The database script is '2.19MB' in size.  The PHP memory allocation is set
+at '5000M'.  There is a high possibility that the installer script will fail with
+a memory allocation error when trying to load the database.sql file.  It is
+recommended to increase the 'memory_limit' setting in the php.ini config file.
+see: https://snapcreek.com/duplicator/docs/faqs-tech#faq-trouble-056-q 
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.2.34 -- Build Server: 10.4.14
+FILE SIZE:	database.sql (2.19MB) - installer-data.sql (2.19MB)
+TIMEOUT:	5000
+MAXPACK:	67108864
+SQLMODE-GLOBAL:	NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+NEW SQL FILE:	[/home/goodheal/noithathiendai.xyz/installer-data.sql]
+COLLATE FB:	Off
+DB CHUNKING:	disabled
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+
+NOTICE: This servers version [10.2.34] is less than the build version [10.4.14].  
+If you find issues after testing your site please referr to this FAQ item.
+https://snapcreek.com/duplicator/docs/faqs-tech/#faq-installer-260-q
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+Starting Cleanup Routine...
+Cleanup Routine Complete
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	3305
+
+wp_actionscheduler_actions: (3)
+wp_actionscheduler_claims: (0)
+wp_actionscheduler_groups: (1)
+wp_actionscheduler_logs: (9)
+wp_commentmeta: (0)
+wp_comments: (0)
+wp_duplicator_pro_entities: (5)
+wp_duplicator_pro_packages: (0)
+wp_links: (0)
+wp_mpd_log: (0)
+wp_options: (290)
+wp_postmeta: (1834)
+wp_posts: (504)
+wp_social_users: (0)
+wp_term_relationships: (151)
+wp_term_taxonomy: (41)
+wp_termmeta: (53)
+wp_terms: (41)
+wp_usermeta: (59)
+wp_users: (2)
+wp_wc_admin_note_actions: (16)
+wp_wc_admin_notes: (14)
+wp_wc_category_lookup: (15)
+wp_wc_customer_lookup: (0)
+wp_wc_download_log: (0)
+wp_wc_order_coupon_lookup: (0)
+wp_wc_order_product_lookup: (0)
+wp_wc_order_stats: (0)
+wp_wc_order_tax_lookup: (0)
+wp_wc_product_meta_lookup: (46)
+wp_wc_reserved_stock: (0)
+wp_wc_tax_rate_classes: (2)
+wp_wc_webhooks: (0)
+wp_woocommerce_api_keys: (0)
+wp_woocommerce_attribute_taxonomies: (0)
+wp_woocommerce_downloadable_product_permissions: (0)
+wp_woocommerce_log: (0)
+wp_woocommerce_order_itemmeta: (0)
+wp_woocommerce_order_items: (0)
+wp_woocommerce_payment_tokenmeta: (0)
+wp_woocommerce_payment_tokens: (0)
+wp_woocommerce_sessions: (1)
+wp_woocommerce_shipping_zone_locations: (0)
+wp_woocommerce_shipping_zone_methods: (0)
+wp_woocommerce_shipping_zones: (0)
+wp_woocommerce_tax_rate_locations: (0)
+wp_woocommerce_tax_rates: (0)
+Removed '168' cache/transient rows
+
+INSERT DATA RUNTIME: 28.5993 sec.
+STEP-2 COMPLETE @ 04:41:17 - RUNTIME: 28.6362 sec.
+
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 04:41:40
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	latin1
+CHARSET CLIENT:	utf8
+
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+Subsite id=-1
+wp_actionscheduler_actions~ (3)
+wp_actionscheduler_claims^ (0)
+wp_actionscheduler_groups~ (1)
+wp_actionscheduler_logs~ (9)
+wp_commentmeta^ (0)
+wp_comments^ (0)
+wp_duplicator_pro_entities~ (5)
+wp_duplicator_pro_packages^ (0)
+wp_links^ (0)
+wp_mpd_log^ (0)
+wp_options~ (290)
+wp_postmeta~ (1834)
+wp_posts~ (504)
+wp_social_users^ (0)
+wp_term_relationships~ (151)
+wp_term_taxonomy~ (41)
+wp_termmeta~ (53)
+wp_terms~ (41)
+wp_usermeta~ (59)
+wp_users~ (2)
+wp_wc_admin_note_actions~ (16)
+wp_wc_admin_notes~ (14)
+wp_wc_category_lookup~ (15)
+wp_wc_customer_lookup^ (0)
+wp_wc_download_log^ (0)
+wp_wc_order_coupon_lookup^ (0)
+wp_wc_order_product_lookup^ (0)
+wp_wc_order_stats^ (0)
+wp_wc_order_tax_lookup^ (0)
+wp_wc_product_meta_lookup~ (46)
+wp_wc_reserved_stock^ (0)
+wp_wc_tax_rate_classes~ (2)
+wp_wc_webhooks^ (0)
+wp_woocommerce_api_keys^ (0)
+wp_woocommerce_attribute_taxonomies^ (0)
+wp_woocommerce_downloadable_product_permissions^ (0)
+wp_woocommerce_log^ (0)
+wp_woocommerce_order_itemmeta^ (0)
+wp_woocommerce_order_items^ (0)
+wp_woocommerce_payment_tokenmeta^ (0)
+wp_woocommerce_payment_tokens^ (0)
+wp_woocommerce_sessions~ (1)
+wp_woocommerce_shipping_zone_locations^ (0)
+wp_woocommerce_shipping_zone_methods^ (0)
+wp_woocommerce_shipping_zones^ (0)
+wp_woocommerce_tax_rate_locations^ (0)
+wp_woocommerce_tax_rates^ (0)
+Partial off
+--------------------------------------
+Search1:	'C:/xampp/htdocs/noithat' 
+Change1:	'/home/goodheal/noithathiendai.xyz' 
+Search2:	'C:\/xampp\/htdocs\/noithat' 
+Change2:	'\/home\/goodheal\/noithathiendai.xyz' 
+Search3:	'C%3A%2Fxampp%2Fhtdocs%2Fnoithat%2F' 
+Change3:	'%2Fhome%2Fgoodheal%2Fnoithathiendai.xyz%2F' 
+Search4:	'C:\xampp\htdocs\noithat' 
+Change4:	'/home/goodheal/noithathiendai.xyz' 
+Search5:	'//localhost:8888/noithat' 
+Change5:	'//noithathiendai.xyz' 
+Search6:	'\/\/localhost:8888\/noithat' 
+Change6:	'\/\/noithathiendai.xyz' 
+Search7:	'%2F%2Flocalhost%3A8888%2Fnoithat' 
+Change7:	'%2F%2Fnoithathiendai.xyz' 
+Search8:	'http://noithathiendai.xyz' 
+Change8:	'https://noithathiendai.xyz' 
+Search9:	'http:\/\/noithathiendai.xyz' 
+Change9:	'https:\/\/noithathiendai.xyz' 
+Search10:	'http%3A%2F%2Fnoithathiendai.xyz' 
+Change10:	'https%3A%2F%2Fnoithathiendai.xyz' 
+SCANNED:	Tables:47 	|	 Rows:3087 	|	 Cells:22556 
+UPDATED:	Tables:1 	|	 Rows:4 	|	 Cells:4 
+ERRORS:		0 
+RUNTIME:	0.128700 sec
+
+====================================
+CONFIGURATION FILE UPDATES:
+====================================
+
+UPDATED WP-CONFIG ARK FILE:
+ - '/home/goodheal/noithathiendai.xyz/wp-config-arc.txt'
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+- Successfully updated the .htaccess file setting.
+
+====================================
+GENERAL UPDATES & CLEANUP:
+====================================
+
+- Removed '0' schedule storage items
+
+====================================
+NOTICES
+====================================
+
+No General Notices Found
+
+
+STEP-3 COMPLETE @ 04:41:40 - RUNTIME: 0.1499 sec. 
+
+
